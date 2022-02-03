@@ -5,7 +5,8 @@ I have 1 years of work expericence in apprenticeship contract at Groupe Bernard,
 
 - 🌱 I’m currently learning Symfony
 - 💻 I work on Mac OS, but I also use Windows
-- 📱 I want to learn technologies like React
-- 📫 How to reach me: Boddaert.Gauthier@gmail.com
+- 📱 I want to learn some technologies like React
+- 📫 How to reach me: Boddaert.Gauthier@gmail.com 
+- 🌍 my website : https://gauthierboddaert.web-edu.fr
 
 
