@@ -10,5 +10,9 @@ I have 1 years of work expericence in apprenticeship contract at Groupe Bernard,
 - 🌍 my website : https://gauthierboddaert.web-edu.fr
 
 
-###
+### My hobbies 🕴
+
+- I pratice during 10 years table tenis 🏓
+- I like to watch movies 🍿
+- 
 
