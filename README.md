@@ -12,7 +12,10 @@ I have 1 years of work expericence in apprenticeship contract at Groupe Bernard,
 
 ### My hobbies 🕴
 
-- I pratice during 10 years table tenis 🏓
+- I practice table tennis since 10 years 🏓
 - I like to watch movies 🍿
-- 
+- I like go out with friends 🍻
+
+
+
 
