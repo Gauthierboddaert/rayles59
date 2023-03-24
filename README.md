@@ -1,11 +1,10 @@
 ### Hi I'm Gauthier 👋
 
-Im a student in IT, next year I will continue my studies in master's degre 📚
-I have 1 years of work expericence in apprenticeship contract at Groupe Bernard, I'm currently working at Insitaction in apprenticeship contact as developper Symfony.
+I'm currently a first-year Master's student in Computer Science pursuing my degree through an alternating program.📚
+I have completed one year of an alternating program with Paragon, and I am currently employed as an alternating Symfony Developer with Insitaction.
 
-- 🌱 I’m currently learning Symfony
+- 🌱 I’m currently learning Symfony and React !
 - 💻 I work on Mac OS, but I also use Windows
-- 📱 I want to learn some technologies like React
 - 📫 How to reach me: Boddaert.Gauthier@gmail.com 
 - 🌍 my website : https://gauthierboddaert.web-edu.fr/index.php
 
